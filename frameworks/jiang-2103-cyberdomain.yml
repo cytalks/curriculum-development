@@ -1,0 +1,173 @@
+## Source: Henry Jiang
+## Url: https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/
+## Download: https://app.box.com/s/sj5xaz8a1461e7u7si3ip1361r070fed
+---
+  domain: Career Development
+  domains:
+    - Conferences
+    - Self Study
+    - Peer Groups
+    - Coaches and Role Models
+    - Training
+    - Certifications
+    
+  domain: Security Architecture
+  domains:
+    - Security Engineering
+    - Access Control
+    domains_access:
+      - Identity Management
+      domains_idm:
+        - Identity & Access Management
+        - Privileged Access management
+    - MFA & SSO
+    - Federated Identity
+    - Cloud Security
+    - Container Security
+    - Endpoin Hygiene
+    - Data Protection
+    domains_data:
+      - Data Leakage Prevention
+    - Network Design
+    domains_network:
+      - DDOS Prevention
+   - Secure System Build
+   domains_system:
+    - Patch Management
+    - Baseline Configuration
+   - Cryptography
+   domains_crypto:
+    - Certificate management
+    - Encryption Standards
+    - Key and Secret Management
+    domains_keys:
+      - Vaulting
+      HSM
+      
+  domain: Frameworks and Standards
+  domains:
+    - NIST Cybersecurity Framework
+    - CIS Top 20 Controls
+    - CIS Benchmarks
+    - ISO 27001
+    - ISO 27017
+    - ISO 27018
+    - OWASP Top 10 (WebApp & API)
+    - MITRE ATT&CK Framework
+  
+  domain: Application Security
+  domains:
+    - S-SDLC
+    - Shift Left
+    - CI/CD Integration
+    - Security UX
+    - Security QA
+    - API Security
+    - Data Flow Diagram
+    - Source Code Scan
+    domains_code:
+      - SAST
+      - Open Source Scan
+  
+  domain: Risk Assessment
+  domains:
+    - Vulnerability Scan
+    - Assets Inventory
+    - 3rd Party Risk
+    domains_risk:
+      - 4th Party Risk
+    - Penetration Test
+    domain_pentest:
+      - Infrastructure (Network and Systems)
+      - Social Engineering
+      - DAST
+      - Application Pen Tests
+    - Risk Monitoring Services (Risk Score)
+  
+  domain: Enterprise Risk Management
+  domains:
+    - Risk Treatment Actions
+    - Risk Acceptance Statement
+    - Cyber Insurance
+    - BCP/DR
+    - Crisis Management
+    - Risk Appetite
+    - Risk Register
+    - Lines of Defense
+    domains_defense:
+      - 1. Process Owners
+      - 2. Risk Management Group
+      - 3. Audit
+      domains_audit:
+        - SOC1/SOC2
+        
+  domain: Governance
+  domains:
+    - Laws and Regulations
+    domains_laws:
+      - Industry Specific
+      domains_laws_industry:
+        - PCI
+        - HIPAA
+      - Central Government
+      domains_laws_government:
+        - GDPR
+        - GLBA
+      - Regional
+      domains_laws_regional:
+        - CCPA
+        - NYS-DFS 23 NYCRR 500
+    - Executive Management Invovlement
+    domains_exec:
+      - Risk Informed
+      - Reports and Scorecards
+      domains_reports:
+        - KPIs/KRIs
+    - Company's Written Policies
+    domains_policies:
+      - Policy
+      - Standard
+      - Procedure
+      - Compliance & Enforcement
+      - Guideline
+      
+  domain: Threat Intelligence
+  domains:
+    - External
+    domains_external:
+      - Contextual
+    - Internal
+    domains_internal:
+      - IOCs
+      - Intel Sharing
+      
+  domain: User Education
+  domains:
+    - Training (New Skills)
+    - Awareness (Reinforcement)
+    - Cybersecurity Table-Top Exercise
+    
+  domain: Security Operation
+  domains:
+    - Vulnerability Management
+    - Threat Hunting
+    - Active Defense
+    - SIEM
+    domains_siem:
+      - SOAR
+    - Security Operations Center
+    - Incident Response
+    domains_ir:
+      - Breach Notification
+      - Containment
+      - Eradication
+      - Blue Team
+      - Red Team
+      - Detection
+      - Investigation
+      domains_investigation:
+        - Forensics
+        
+  domain: Physical Security
+  domains:
+    - IoT Security
